@@ -1,0 +1,6 @@
+streamlit==1.26.0
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
